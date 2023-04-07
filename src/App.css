@@ -14,19 +14,45 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(102, 207, 241);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(26, 24, 24);
 }
 
 .App-link {
   color: #61dafb;
+
 }
+/* h1 {
+  text-align: center;
+  padding-top: .5em;
+  font-size: 3em;
+  letter-spacing: 0.25em;
+  color: aqua;
+}
+div  {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;  
+}
+#books{
+  background-color: plum;
+  border: 1px solid white;
+  font-size: medium;
+  align-items: right ;
+} */
+
+/* #rented-books{
+  background-color: paleturquoise;
+  border: 1px solid blueviolet;
+  font-size: medium;
+  } */
+
 
 @keyframes App-logo-spin {
   from {
